@@ -1,5 +1,22 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Jamie's Room","order":1,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":2,"expanded":false,"name":"Jamie's House","order":2,"parentId":0,"scrollX":819,"scrollY":453}
+  {
+    "id": 1,
+    "expanded": false,
+    "name": "Starting Village",
+    "order": 1,
+    "parentId": 0,
+    "scrollX": 1228.5,
+    "scrollY": 717
+  },
+  {
+    "id": 2,
+    "expanded": false,
+    "name": "Jamie's House",
+    "order": 2,
+    "parentId": 0,
+    "scrollX": 819,
+    "scrollY": 453
+  },
+  {"id":3,"expanded":false,"name":"Jamie's Room","order":3,"parentId":0,"scrollX":819,"scrollY":453}
 ]
